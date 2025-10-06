@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quanticle-app/static/css/main.d3a7847a.css",
+    "main.js": "/quanticle-app/static/js/main.ac0109ad.js",
+    "static/js/239.8029f69e.chunk.js": "/quanticle-app/static/js/239.8029f69e.chunk.js",
+    "static/js/977.cde493d4.chunk.js": "/quanticle-app/static/js/977.cde493d4.chunk.js",
+    "static/js/455.9487c2ab.chunk.js": "/quanticle-app/static/js/455.9487c2ab.chunk.js",
+    "static/js/453.fd71fada.chunk.js": "/quanticle-app/static/js/453.fd71fada.chunk.js",
+    "static/media/logo.png": "/quanticle-app/static/media/logo.560a2fd1e0258c898e1b.png",
+    "index.html": "/quanticle-app/index.html",
+    "main.d3a7847a.css.map": "/quanticle-app/static/css/main.d3a7847a.css.map",
+    "main.ac0109ad.js.map": "/quanticle-app/static/js/main.ac0109ad.js.map",
+    "239.8029f69e.chunk.js.map": "/quanticle-app/static/js/239.8029f69e.chunk.js.map",
+    "977.cde493d4.chunk.js.map": "/quanticle-app/static/js/977.cde493d4.chunk.js.map",
+    "455.9487c2ab.chunk.js.map": "/quanticle-app/static/js/455.9487c2ab.chunk.js.map",
+    "453.fd71fada.chunk.js.map": "/quanticle-app/static/js/453.fd71fada.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3a7847a.css",
+    "static/js/main.ac0109ad.js"
+  ]
+}
